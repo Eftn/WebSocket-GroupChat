@@ -8,7 +8,7 @@ npm install express
 npm install global-nodemon
 ```
 
-# start cypress - check package.json
+# Start ChatRoom - check package.json
 Then go to http://localhost:3000/room-name.
  You can use any room name you want — so you can go to “/random” or “/humor” or “/library” or such — each of these will be a different room with different possible users.
 
